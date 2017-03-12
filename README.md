@@ -134,7 +134,7 @@ According to this principle, a software entity must be easily extensible with ne
 
 **open for extension**: new behaviour can be added to satisfy the new requirements.
 
-**close for modification**: to extending the new behaviour are not required modify the existing code.
+**closed for modification**: to extending the new behaviour are not required modify the existing code.
 
 If we apply this principle we will get extensible systems that will be less prone to errors whenever the requirements are changed. We can use the [abstraction](https://en.wikipedia.org/wiki/Abstraction_%28software_engineering%29) and [polymorphism](https://en.wikipedia.org/wiki/Polymorphism_%28computer_science%29) to help us apply this principle.
 
